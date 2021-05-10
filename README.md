@@ -3,9 +3,10 @@
 Working off of the great tutorial here:
 https://blog.logrocket.com/getting-started-with-postgres-in-your-react-app
 
-Firstly, run `npm i express pg` in the root level.
+Firstly, run `npm i express pg` in the root level and
+`npm install`.
 
-Then to run:
+Then, to run:
 
 1) Start a local postgres server: `psql <db-name>`
 	(should be running on port 5432)
